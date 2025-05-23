@@ -83,8 +83,8 @@ Correcting such errors is critical in pre-processing pipelines for reliable anal
 - 'nltk' for BLEU scoring
 
 ---
-###License 
-This project is developed for academic use only. The sataset used is publicaly available under terms provided by kaggle. 
+### License 
+This project is developed for academic use only. The dataset used is publicaly available under terms provided by kaggle. 
 
 ---
 ### Team Members
